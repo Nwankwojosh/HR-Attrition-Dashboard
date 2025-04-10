@@ -1,12 +1,6 @@
 # HR-Attrition-Dashboard
 The HR Attrition Dashboard provides a comprehensive visual representation of how employees have exited the organization. It highlights key metrics and trends related to employee attrition, helping HR teams and leadership identify areas that may require attention to improve employee retention.
-
-Here's a sample `README.md` file you can use for the **HR Attrition Dashboard** based on the uploaded image:
-
 ---
-
-# HR Attrition Dashboard
-
 ## Overview
 ![Hr Attrition Analysis DashBoard](https://github.com/user-attachments/assets/982434d9-5155-4257-ac31-285b5bd299cc)
 
